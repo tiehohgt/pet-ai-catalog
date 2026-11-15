@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "pets": [
+    {
+      "name": "Пиксель",
+      "preview": "previews/pixel.png",
+      "author": "твой_github_username"
+    }
+  ]
+}
