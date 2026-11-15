@@ -3,8 +3,8 @@
   "pets": [
     {
       "name": "Пиксель",
-      "preview": "previews/pixel.png",
-      "author": "твой_github_username"
+      "preview": "pixel.png",
+      "author": "tiehohgt"
     }
   ]
 }
